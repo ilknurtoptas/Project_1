@@ -15,5 +15,5 @@ By comparing various countries, there is the potential to explore and identify t
 * Which regions have the highest literacy and internet penetration rates
 * Is there any correlation between exportation and GDP
 * The correlation between women’s literacy rate and GDP
-[ World Bank Data - dataset by garyhoov](https://data.world/garyhoov/world-bank-data) 
+* [ World Bank Data - dataset by garyhoov](https://data.world/garyhoov/world-bank-data) 
 Selected 2015 Statistics on Countries of the World, also totaled by World Region. 
